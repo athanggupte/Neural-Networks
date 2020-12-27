@@ -1,0 +1,31 @@
+Cost after epoch 0: 0.01086035474855977
+Accuracy: 0.688
+Confusion Matrix: [[0, 156], [344, 0]]
+<ipython-input-80-22b9d7210103>:12: RuntimeWarning: invalid value encountered in longlong_scalars
+  print('Precision:', (tp / (tp + fp)))
+Precision: nan
+Recall: 0.0
+Accuracy: 0.688
+Confusion Matrix: [[0, 156], [344, 0]]
+<ipython-input-81-22b9d7210103>:12: RuntimeWarning: invalid value encountered in longlong_scalars
+  print('Precision:', (tp / (tp + fp)))
+Precision: nan
+Recall: 0.0
+Accuracy: 0.7278026905829597
+Confusion Matrix: [[0, 1214], [3246, 0]]
+<ipython-input-82-19326eac3426>:12: RuntimeWarning: invalid value encountered in longlong_scalars
+  print('Precision:', (tp / (tp + fp)))
+Precision: nan
+Recall: 0.0
+Accuracy: 0.688
+Confusion Matrix: [[0, 156], [344, 0]]
+<ipython-input-83-22b9d7210103>:12: RuntimeWarning: invalid value encountered in longlong_scalars
+  print('Precision:', (tp / (tp + fp)))
+Precision: nan
+Recall: 0.0
+Accuracy: 0.7278026905829597
+Confusion Matrix: [[0, 1214], [3246, 0]]
+<ipython-input-84-19326eac3426>:12: RuntimeWarning: invalid value encountered in longlong_scalars
+  print('Precision:', (tp / (tp + fp)))
+Precision: nan
+Recall: 0.0

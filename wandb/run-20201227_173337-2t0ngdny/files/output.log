@@ -1,0 +1,7 @@
+Cost after epoch 0: 0.010148019997232945
+<ipython-input-5-eec47015b9fb>:4: RuntimeWarning: divide by zero encountered in log
+  cost = - (np.dot(Y, np.log(AL.T)) + np.dot(1 - Y, np.log(1 - AL.T))) / m
+<ipython-input-7-4d2d4548d011>:12: RuntimeWarning: invalid value encountered in true_divide
+  dA = - np.divide(Y, A) + np.divide(1 - Y, 1 - A)
+Cost after epoch 1000: nan
+Cost after epoch 2000: nan
