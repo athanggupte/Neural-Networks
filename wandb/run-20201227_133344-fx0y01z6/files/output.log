@@ -1,2 +1,0 @@
-Cost after epoch 0: nan
-wandb: WARNING Calling wandb.login() after wandb.init() has no effect.
